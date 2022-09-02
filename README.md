@@ -1,5 +1,5 @@
 # Find-The-Least
-![alt text](https://github.com/AfzalAhamed/Ayubo_Leisure_-Pvt-_Ltd/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/AfzalAhamed/Find-The-Least/blob/main/image.jpg?raw=true)
 ----------------------INTRODUCTION----------------------------------------------<br/>
 This Project Was Created When I Was Studying 1st Semester of BSc<br/>
 <br/>
